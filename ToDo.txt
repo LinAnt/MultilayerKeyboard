@@ -1,0 +1,8 @@
+ToDoList:
+
+Fix Hero custom configs
+-Meepo E-button
+
+Bugs:
+
+Wierd double tap group move :S
